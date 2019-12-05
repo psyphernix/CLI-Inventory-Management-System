@@ -1,0 +1,4 @@
+phone,	200,	44
+laptop,	900,	9
+HDD,	200,	30
+camera,	400,	35
